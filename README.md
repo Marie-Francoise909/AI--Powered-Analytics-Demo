@@ -1,7 +1,7 @@
 # AI-Powered-Analytics-Demo
 
 ## 📽️ Demo Video
-Watch the dashboard walkthrough here (Loom Demo):https://www.loom.com/share/2fd7ed7bde8348b495221d7cee349274
+Watch the dashboard walkthrough here [Loom Demo]:https://www.loom.com/share/2fd7ed7bde8348b495221d7cee349274
 
 *Narration was AI-assisted using my own voice to enhance clarity and pronunciation.*
 
