@@ -2,7 +2,7 @@
 
  🚀 Project Overview
 
-InsightIQ is a sales performance analytics MVP designed to demonstrate how raw transactional data can be transformed into clear, business-ready insights.
+AI-Powered-Analitics-Demo is a sales performance analytics MVP designed to demonstrate how raw transactional data can be transformed into clear, business-ready insights.
 
 This project focuses on foundational analytics skills: understanding trends, summarizing performance, and communicating results in a way that decision-makers can quickly grasp.
 
@@ -20,7 +20,7 @@ Without clear visuals and structure, these questions slow down decision-making.
 
  💡 Solution
 
-This project delivers a simple and focused sales dashboard** that:
+This project delivers a simple and focused sales dashboard that:
 
 * Summarizes overall sales performance with a headline KPI
 * Shows sales trends over time to identify growth or slowdown
