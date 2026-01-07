@@ -1,5 +1,10 @@
 # AI-Powered-Analytics-Demo
 
+## 📽️ Demo Video
+Watch the dashboard walkthrough here: Loom Demo:(https://www.loom.com/share/2fd7ed7bde8348b495221d7cee349274)
+
+*Narration was AI-assisted using my own voice to enhance clarity and pronunciation.*
+
  🚀 Project Overview
 
 AI-Powered-Analitics-Demo is a sales performance analytics MVP designed to demonstrate how raw transactional data can be transformed into clear, business-ready insights.
@@ -65,6 +70,8 @@ Overall sales show a consistent trend over time, highlighting periods of stronge
 Sales performance varies significantly by region, with clear top- and bottom-performing areas.
 
 These patterns indicate opportunities for targeted regional strategies and improved sales planning.
+
+
 
 
 
